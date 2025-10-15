@@ -9,7 +9,7 @@
 </div>
 
 ## 🚀 Sobre mim
-- 💻 Desenvolvedor de games, Front-end & **Freelancer** criando sites.  
+- 💻 Desenvolvedor de games & Front-end.  
 - 🎯 Atualmente focado em **c#, JavaScript e GML**.  
 - 📚 Sempre buscando aprender novas tecnologias e boas práticas.  
 - ⚡ Experiência com **Frontend, Desenvolvimento de games em Unity, Desenvolvimento de games em GameMaker studio**.  
