@@ -5,8 +5,6 @@
 
 <h1 align="center">Olá, eu sou o Hayverson 👋</h1>
 <div style="display: inline_block><cbr>
-<img align="right" alt="Hay-gif" scr="https://cdn.discordapp.com/attachments/752328772845437012/1427805450405150732/Design_sem_nome.gif?ex=68f032f2&is=68eee172&hm=562a2f09ad93fe6a04da0851c55ff4f3d958d261da9dce465bb14ef1b7fa6e56&">
-</div>
 
 ## 🚀 Sobre mim
 - 💻 Desenvolvedor de games & Front-end.  
