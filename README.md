@@ -7,10 +7,10 @@
 <table>
   <tr>
     <td valign="center" width="72%">
-      <h2>Olá! Eu sou o Hayverson 👋</h2>
+      <h2>Olá! Eu sou o Hayverson(sim, é meu nome)</h2>
       <p>
         Sou estudante e desenvolvedor de software, transformando aprendizado em projetos reais.<br>
-        Atualmente, aprofundo meus estudos em <strong>backend com Go</strong>, <strong>desenvolvimento web</strong>
+        Atualmente, aprofundo meus estudos em <strong>backend com Go e python</strong>, <strong>desenvolvimento web</strong>
         e <strong>engenharia de software</strong>, sem deixar de lado minha paixão por games.
       </p>
       <p>
@@ -71,24 +71,24 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hayversong/questboard">⚔️ QuestBoard</a></h3>
+      <h3><a href="https://github.com/Hayversong/questboard">QuestBoard</a></h3>
       <p>Kanban gamificado para projetos de jogos, com quests, XP, níveis, ranks e conquistas.</p>
       <p><strong>Go · MVC · SQLite · Docker · JavaScript</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hayversong/site-pessoal">🌐 Portfólio pessoal</a></h3>
+      <h3><a href="https://github.com/Hayversong/site-pessoal">Portfólio pessoal</a></h3>
       <p>Espaço para apresentar projetos, decisões técnicas e aprendizados em desenvolvimento de software.</p>
       <p><strong>React · TypeScript · Tailwind CSS · Vite</strong></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hayversong/todo-app-go">✅ To-Do App em Go</a></h3>
+      <h3><a href="https://github.com/Hayversong/todo-app-go">To-Do App em Go</a></h3>
       <p>Aplicação web criada do zero para praticar servidor HTTP, templates, formulários e CRUD.</p>
       <p><strong>Go · net/http · HTML · CSS</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hayversong/Runner-kaplay-js">🦔 Sonic Infinite Runner</a></h3>
+      <h3><a href="https://github.com/Hayversong/Runner-kaplay-js">Sonic Infinite Runner</a></h3>
       <p>Jogo com colisões, parallax, pontuação, progressão de dificuldade e persistência de high score.</p>
       <p><strong>JavaScript · Kaplay.js · HTML · CSS</strong></p>
     </td>
